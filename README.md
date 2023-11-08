@@ -11,8 +11,8 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 -->
 
 ## Array
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/1094397839/?envType=study-plan-v2&envId=top-interview-150) - [Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/Merge-Sorted-Array.cpp).
-- [Problem 2](link_to_problem2) - Description of problem 2.
+- [Merge Sorted Array | LeetCode](https://leetcode.com/problems/merge-sorted-array/submissions/1094397839/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/Merge-Sorted-Array.cpp).
+- [Remove Element | LeetCode](link_to_problem2) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/Remove-Element.cpp)
 
 <!--
 ## String
