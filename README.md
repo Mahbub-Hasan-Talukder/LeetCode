@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 - [Merge Sorted Array | LeetCode](https://leetcode.com/problems/merge-sorted-array/submissions/1094397839/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/Merge-Sorted-Array.cpp).
 - [Remove Element | LeetCode](link_to_problem2) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/Remove-Element.cpp)
 - [Remove Duplicates from Sorted Array | LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/remove-duplicate-from-sorted-array.cpp).
-- [Remove Duplicates from Sorted Array II | LeetCode](link_to_problem2](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150)) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/remove-duplicate-from-sorted-array-II.cpp)
+- [Remove Duplicates from Sorted Array II | LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/remove-duplicate-from-sorted-array-II.cpp)
 <!--
 ## String
 - [Problem 3](link_to_problem3) - Description of problem 3.
