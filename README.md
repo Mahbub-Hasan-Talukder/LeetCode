@@ -15,8 +15,8 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 - [Remove Element | LeetCode](link_to_problem2) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/Remove-Element.cpp)
 - [Remove Duplicates from Sorted Array | LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/remove-duplicate-from-sorted-array.cpp).
 - [Remove Duplicates from Sorted Array II | LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/remove-duplicate-from-sorted-array-II.cpp)
-- [Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/rotate-array.cpp)
-- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/best-time-to-buy-and-sell-stock.cpp)
+- [Rotate Array | LeetCode](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/rotate-array.cpp)
+- [Best Time to Buy and Sell Stock | LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/best-time-to-buy-and-sell-stock.cpp)
 <!--
 ## String
 - [Problem 3](link_to_problem3) - Description of problem 3.
