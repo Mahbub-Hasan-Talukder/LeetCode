@@ -22,6 +22,8 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 - [Jump Game II | LeetCode](https://leetcode.com/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/jump-game-ii.cpp).
 - [H-Index | LeetCode](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/h-index.cpp).
 - [Insert Delete GetRandom O(1) | LeetCode](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/insert-delete-getrandom-o1.cpp).
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/product-of-array-except-self.cpp).
+- [Gas Station](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150) - [Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/gas-station.cpp).
 <!--
 ## Category name 
 - [Problem](link_to_problemX) - Solution(Sotion link).
