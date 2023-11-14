@@ -22,11 +22,14 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 - [Jump Game II | LeetCode](https://leetcode.com/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/jump-game-ii.cpp).
 - [H-Index | LeetCode](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/h-index.cpp).
 - [Insert Delete GetRandom O(1) | LeetCode](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/insert-delete-getrandom-o1.cpp).
-- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/product-of-array-except-self.cpp).
-- [Gas Station](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150) - [Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/gas-station.cpp).
+- [Product of Array Except Self | LeetCode](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/product-of-array-except-self.cpp).
+- [Gas Station | LeetCode](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/gas-station.cpp).
+- [Candy | LeetCode](https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/candy.cpp).
+- [Roman to Integer](https://leetcode.com/problems/roman-to-integer/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/roman-to-integer.cpp).
+
 <!--
 ## Category name 
-- [Problem](link_to_problemX) - Solution(Sotion link).
+- []() - [My Solution]().
 -->
 
 Feel free to explore the categories and dive into the specific problems to learn and practice your coding skills. If you have any questions or suggestions, please don't hesitate to reach out.
