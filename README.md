@@ -1,5 +1,5 @@
 # LeetCode Solutions
-<!-- # Top 150+ Interview Questions and Solutions -->
+# Top Interview Questions and Solutions
 Welcome to my LeetCode solutions repository! I have organized my LeetCode solutions into different categories, making it easy for anyone to navigate and learn from them.
 
 ## Categories
