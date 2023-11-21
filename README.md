@@ -30,14 +30,15 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 -  [Integer to Roman | LeetCode](https://leetcode.com/problems/integer-to-roman/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/Integer-to-Roman.cpp)
 -  [Length of Last Word | LeetCode](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/length-of-last-word.cpp)
 -  [Longest Common Prefix | LeetCode](https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/longest-common-prefix.cpp).
--  [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/reverse-words-in-a-string.cpp).
+-  [Reverse Words in a String | LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/reverse-words-in-a-string.cpp).
+-  [Zigzag Conversion | LeetCode](https://leetcode.com/problems/zigzag-conversion/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/zigzag-conversion.cpp).
+-  [Trapping Rain Water | LeetCode](https://leetcode.com/problems/trapping-rain-water/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/trapping-rain-water.cpp).
 
 </details>
 
-
 <!--
 ## Category name 
-- []() - [My Solution]().
+[]() - [My Solution]().
 -->
 
 Feel free to explore the categories and dive into the specific problems to learn and practice your coding skills. If you have any questions or suggestions, please don't hesitate to reach out.
