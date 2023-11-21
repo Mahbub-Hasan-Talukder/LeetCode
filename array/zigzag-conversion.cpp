@@ -1,4 +1,7 @@
-#include<bits/stdc++.h>
+/*
+problem link: https://leetcode.com/problems/zigzag-conversion/?envType=study-plan-v2&envId=top-interview-150
+*/
+
 class Solution {
 public:
     string convert(string s, int numRows) {
