@@ -33,6 +33,8 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 -  [Reverse Words in a String | LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/reverse-words-in-a-string.cpp).
 -  [Zigzag Conversion | LeetCode](https://leetcode.com/problems/zigzag-conversion/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/zigzag-conversion.cpp).
 -  [Trapping Rain Water | LeetCode](https://leetcode.com/problems/trapping-rain-water/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/trapping-rain-water.cpp).
+-  [Text Justification](https://leetcode.com/problems/text-justification/description/?envType=study-plan-v2&envId=top-interview-150) - [Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/text-justification.cpp).
+-  [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) - [Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/array/find-the-index-of-the-first-occurrence-in-a-string.cpp).
 
 </details>
 
