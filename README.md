@@ -4,6 +4,7 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 
 ## Categories
 - [Array](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/array)
+- [Linked List](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/linked-list)
 <!-- 
 - [String](#string)
 - [Two Pointers](#two-pointers)
