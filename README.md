@@ -38,6 +38,14 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 
 </details>
 
+
+<details>
+<summary><b>Linked List</b></summary>
+  
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/linked-list/linked-list-cyclec.cpp).
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/linked-list/merge-two-sorted-lists.cpp).
+
+</details>
 <!--
 ## Category name 
 []() - [My Solution]().
