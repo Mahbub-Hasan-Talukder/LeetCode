@@ -50,6 +50,10 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/linked-list/reverse-linked-list-ii.cpp).
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/linked-list/reverse-nodes-in-k-group.cpp).
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/linked-list/remove-nth-node-from-end-of-list.cpp).
+- [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/linked-list/remove-duplicates-from-sorted-list-ii.cpp).
+- [Rotate List](https://leetcode.com/problems/rotate-list/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/linked-list/rotate-list.cpp).
+- [Partition List](https://leetcode.com/problems/partition-list/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/linked-list/partition-list.cpp).
+- [LRU Cache](https://leetcode.com/problems/lru-cache/description/?envType=study-plan-v2&envId=top-interview-150) - [Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/linked-list/lru-cache.cpp).
 
 </details>
 <!--
