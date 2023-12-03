@@ -5,6 +5,7 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 ## Categories
 - [Array](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/array)
 - [Linked List](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/linked-list)
+- [Two Pointers](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/two-pointers)
 <!-- 
 - [String](#string)
 - [Two Pointers](#two-pointers)
@@ -56,6 +57,16 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 - [LRU Cache](https://leetcode.com/problems/lru-cache/description/?envType=study-plan-v2&envId=top-interview-150) - [Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/linked-list/lru-cache.cpp).
 
 </details>
+
+
+<details>
+<summary><b>Two Pointers</b></summary>
+  
+- [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/two-pointers/is-subsequence.cpp).
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/two-pointers/valid-palindrome.cpp).
+  
+</details>
+
 <!--
 ## Category name 
 []() - [My Solution]().
