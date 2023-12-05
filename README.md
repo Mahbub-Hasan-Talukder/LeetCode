@@ -66,6 +66,7 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/two-pointers/valid-palindrome.cpp).
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/two-pointers/container-with-most-water.cpp).
 - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/two-pointers/two-sum-ii-input-array-is-sorted.cpp).
+- [3Sum](https://leetcode.com/problems/3sum/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/two-pointers/3sum.cpp).
   
 </details>
 
