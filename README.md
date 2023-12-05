@@ -72,7 +72,7 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 
 
 <details>
-<summary><b>Two Pointers</b></summary>
+<summary><b>Sliding Window</b></summary>
   
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/sliding-window/longest-substring-without-repeating-characters.cpp).
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/sliding-window/minimum-size-subarray-sum.cpp).
