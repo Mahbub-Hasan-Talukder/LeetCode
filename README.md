@@ -6,6 +6,7 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 - [Array](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/array)
 - [Linked List](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/linked-list)
 - [Two Pointers](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/two-pointers)
+- [Matrix](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/matrix)
 <!-- 
 - [String](#string)
 - [Two Pointers](#two-pointers)
@@ -76,6 +77,15 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
   
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/sliding-window/longest-substring-without-repeating-characters.cpp).
 - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/sliding-window/minimum-size-subarray-sum.cpp).
+  
+</details>
+
+
+<details>
+<summary><b>Matrix</b></summary>
+  
+- [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/matrix/valid-sudoku.cpp).
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/matrix/spiral-matrix.cpp).
   
 </details>
 <!--
