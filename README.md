@@ -7,6 +7,7 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 - [Linked List](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/linked-list)
 - [Two Pointers](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/two-pointers)
 - [Matrix](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/matrix)
+- [Hash Map](https://github.com/Mahbub-Hasan-Talukder/LeetCode/tree/main/hash-map)
 <!-- 
 - [String](#string)
 - [Two Pointers](#two-pointers)
@@ -90,6 +91,18 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/matrix/set-matrix-zeroes.cpp).
 - [Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/matrix/rotate-image.cpp).
   
+</details>
+
+
+<details>
+<summary><b>Hash Map</b></summary>
+
+- [Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/hash-map/ransom-note.cpp).
+- [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/hash-map/isomorphic-strings.cpp).
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/hash-map/valid-anagram.cpp).
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/hash-map/group-anagrams.cpp).
+- [Two Sum](https://leetcode.com/problems/two-sum/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/hash-map/two-sum.cpp).
+
 </details>
 <!--
 ## Category name 
