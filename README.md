@@ -86,6 +86,9 @@ Welcome to my LeetCode solutions repository! I have organized my LeetCode soluti
   
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/matrix/valid-sudoku.cpp).
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/matrix/spiral-matrix.cpp).
+- [Game of Life](https://leetcode.com/problems/game-of-life/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/matrix/game-of-life.cpp).
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/matrix/set-matrix-zeroes.cpp).
+- [Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150) - [My Solution](https://github.com/Mahbub-Hasan-Talukder/LeetCode/blob/main/matrix/rotate-image.cpp).
   
 </details>
 <!--
